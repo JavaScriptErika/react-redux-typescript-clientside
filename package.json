@@ -1,8 +1,8 @@
 {
-  "name": "react-redux-typescript-clientside-boilerplate",
+  "name": "react-redux-typescript-clientside",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/levsthings/react-redux-typescript-clientside-boilerplate",
+  "repository": "https://github.com/levsthings/react-redux-typescript-clientside",
   "author": "levsthings",
   "license": "Unlicense",
   "scripts": {
