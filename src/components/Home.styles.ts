@@ -30,10 +30,10 @@ export const styles = StyleSheet.create({
         display: 'inline-block'
     },
     wrapper: {
-        backgroundColor: 'white'
+        backgroundColor: '#f9f9f9'
     },
     homepage: {
-        height: '80vh',
+        height: '92vh',
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'center'
