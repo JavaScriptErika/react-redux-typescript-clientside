@@ -1,11 +1,11 @@
 import * as React from 'react'
 import { css } from 'aphrodite/no-important'
-import { styles } from './Home.styles'
+import { styles, bg } from './Home.styles'
 
 export class Home extends React.Component<{}, {}> {
     render() {
         return (
-            <div className={css(styles.wrapper)}>
+            <div className={css(styles.wrapper, bg.gradients)}>
                 <div className={css(styles.navBar)}>
                     <img className={css(styles.iconMenu)} src='assets/menu.svg' />
                     <h1 className={css(styles.textLogo)}>XVERSE</h1>
