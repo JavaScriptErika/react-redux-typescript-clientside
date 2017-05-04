@@ -4,5 +4,5 @@ import { Home } from './components/Home'
 
 ReactDOM.render(
     <Home/>,
-    document.getElementById('app'),
-);
+    document.getElementById('app')
+)

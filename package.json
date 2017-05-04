@@ -9,6 +9,8 @@
     "dev": "webpack-dev-server --historyApiFallback true --content-base public --config ./webpack.config.ts"
   },
   "dependencies": {
+    "@types/aphrodite": "^0.5.5",
+    "aphrodite": "^1.2.1",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
   },
